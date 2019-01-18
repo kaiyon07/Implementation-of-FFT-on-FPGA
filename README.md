@@ -1,2 +1,2 @@
 # Implementation-of-FFT-on-FPGA
-Implementation of Fast Fourier Transform  
+Implementation of Eight point Radix 2 FFT Algorithm on FPGA
